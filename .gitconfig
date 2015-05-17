@@ -1,0 +1,12 @@
+[user]
+	name = Chris Toynbee
+	email = ctoynbee@gmail.com
+[push]
+	default = simple
+[mergetool]
+	keepBackup = true
+[core]
+	excludesfile = ~/.gitignore_global
+	autocrlf = input
+[init]
+	templatedir = ~/.git_template
